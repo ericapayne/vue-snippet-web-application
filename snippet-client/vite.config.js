@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/vue-snippet-web-application/",
+  base: '/vue-snippet-web-application/',
   plugins: [vue()],
 })
